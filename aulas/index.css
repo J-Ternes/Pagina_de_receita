@@ -1,0 +1,18 @@
+#text {
+    color: red;
+    font-size: 25px;
+    letter-spacing: 2;
+    text-transform: uppercase;
+}
+
+.paragrafo {
+    color: blue;
+    font-size: 15px;
+    letter-spacing: 2;
+    text-transform: initial;
+
+}
+
+body{
+    background-color: antiquewhite;
+}
