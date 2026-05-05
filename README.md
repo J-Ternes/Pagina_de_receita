@@ -8,7 +8,8 @@ A página apresenta a receita de **Cupcake de café com chantilly**, exibindo de
 
 O projeto foi desenvolvido na aula da Rocketseat.
 
-Repositório: [Pagina_de_receita](http://127.0.0.1:5500/Projeto-Receita/index.html)
+Repositório: [Pagina_de_receita](<img width="839" height="798" alt="image" src="https://github.com/user-attachments/assets/d3794772-829d-42e6-a7d2-008347a7cbd2" />
+)
 
 ## Tecnologias utilizadas
 
