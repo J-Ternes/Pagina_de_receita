@@ -8,7 +8,7 @@ A página apresenta a receita de **Cupcake de café com chantilly**, exibindo de
 
 O projeto foi desenvolvido na aula da Rocketseat.
 
-![Print do Projeto] (Img_project)
+![Print do Projeto] (Img_project.png)
 )
 
 ## Tecnologias utilizadas
