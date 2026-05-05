@@ -6,7 +6,9 @@ A página apresenta a receita de **Cupcake de café com chantilly**, exibindo de
 
 ## Preview do projeto
 
-Repositório: [Pagina_de_receita](https://github.com/J-Ternes/Pagina_de_receita)
+O projeto foi desenvolvido na aula da Rocketseat.
+
+Repositório: [Pagina_de_receita](http://127.0.0.1:5500/Projeto-Receita/index.html)
 
 ## Tecnologias utilizadas
 
